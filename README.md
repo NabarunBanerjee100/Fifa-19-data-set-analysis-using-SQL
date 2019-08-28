@@ -1,2 +1,2 @@
-# Fifa-19-in-mysql
-Analysing fifa19 dataset in mysql
+# Fifa-19
+Descriptive Analysis of Fifa-19 players
